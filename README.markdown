@@ -1,0 +1,1 @@
+This is a demo_app for ruby on rails
